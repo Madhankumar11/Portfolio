@@ -33,10 +33,10 @@ const Workcard = (props) => {
                 <div className='pro-details'>
                     <p>This Is Madhankumar from Senchola Technology,Madhan-Portfolio is my second react project in Senchola texchnology,In this Project is used to order the food</p>
                     <div className='pro-btns'>
-                        <NavLink to="https://madhankumar11.github.io/Foodapp/" className="btn">
+                        <NavLink to="url.com" className="btn">
                             View
                         </NavLink>
-                        <NavLink to="https://github.com/Madhankumar11/Foodapp" className="btn">
+                        <NavLink to="url.com" className="btn">
                             Source
                         </NavLink>
                     </div>
